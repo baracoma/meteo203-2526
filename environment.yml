@@ -1,0 +1,15 @@
+name: meteo203
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - h5py
+  - xarray
+  - pandas
+  - geopandas
+  - seaborn
